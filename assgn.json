@@ -1,0 +1,27 @@
+[{"name":"Thousand splendid suns",
+    "author":"Khalid khureshi",
+    "category":"novel",
+    "description":"This is a book depicting the life of women in war hit Afgan",
+    "image":"1.jpg"
+},
+{"name":"inferno",
+"author":"Dan Brown",
+"category":"fiction",
+"description":"This is a fiction with thrilling suspence and misteries" ,
+"image":"2.jpg"},
+
+{"name":"God of small things",
+    "author":"Arundadhi Roy",
+    "category":"novel",
+    "description":"A novel showcasing the life of women in rural kerala",
+    "image":"go.jpg"},
+   
+    {"name":"Wings of fire",
+        "author":"A P  J Abdul Kalam",
+        "category":"Autobiography",
+        "description":"An autobiography by the great scientist and former president of India",
+        "image":"wings.jpg"}
+        
+    
+    
+]
